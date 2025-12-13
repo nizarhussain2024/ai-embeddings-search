@@ -9,3 +9,4 @@ class Config:
     EMBEDDING_DIMENSION = int(os.getenv('EMBEDDING_DIMENSION', 32))
     SIMILARITY_THRESHOLD = float(os.getenv('SIMILARITY_THRESHOLD', 0.0))
 
+

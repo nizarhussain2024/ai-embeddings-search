@@ -22,3 +22,4 @@ def handle_error(error):
     
     return {"error": "Internal server error"}, 500
 
+

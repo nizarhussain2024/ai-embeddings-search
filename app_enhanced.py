@@ -97,3 +97,4 @@ def search_with_filter():
         "total_results": len(results)
     })
 
+

@@ -49,3 +49,4 @@ class DocumentManager:
             "category_list": list(self.categories)
         }
 
+
