@@ -43,3 +43,4 @@ class SearchHistory:
             "average_results": sum(e["results_count"] for e in self.history) / len(self.history) if self.history else 0
         }
 
+
