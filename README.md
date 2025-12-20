@@ -378,3 +378,12 @@ docker run -p 5000:5000 ai-embeddings-search
 - [ ] Multi-language support
 - [ ] Image embeddings
 - [ ] Graph-based knowledge graph
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
